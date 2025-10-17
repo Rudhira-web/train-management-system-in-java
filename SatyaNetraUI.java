@@ -136,3 +136,4 @@ public class SatyaNetraUI extends JFrame {
         SwingUtilities.invokeLater(() -> new SatyaNetraUI());
     }
 }
+
