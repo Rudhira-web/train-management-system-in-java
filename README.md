@@ -1,1 +1,1 @@
-# train-management-system-in-java
+it is a java made platform which is used to detect fake reviews
